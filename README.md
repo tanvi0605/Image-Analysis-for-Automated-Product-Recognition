@@ -18,3 +18,7 @@ Real life use case :
 
 **Educational Tools**
 - Helps children and adults learn about different fruits and vegetables through interactive and engaging methods.
+
+  *OUTPUT*
+  ![image](https://github.com/user-attachments/assets/c7794b2a-46f6-46ad-b47e-9fd755631dbc)
+
